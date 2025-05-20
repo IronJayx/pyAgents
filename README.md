@@ -1,6 +1,11 @@
-# MCP Client with Config-based Server Loading
+# pyAgents
 
-This project demonstrates how to use the Model-Controller-Presenter (MCP) pattern with a configurable server loading approach.
+Template project to build agents capable of writing code and deploying it.
+
+Stack
+- mpc (servers and client)
+- python
+- anthropic
 
 ## Setup
 
