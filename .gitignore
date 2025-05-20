@@ -1,0 +1,6 @@
+*.env*
+*.venv*
+client/modal-*
+*__pycache__*
+*.egg-info*
+build/

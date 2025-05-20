@@ -1,0 +1,16 @@
+[project]
+name = "pyAgents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "asyncio>=3.4.3",
+    "dotenv>=0.9.9",
+    "anthropic>=0.51.0",
+    "mcp[cli]>=1.6.0",
+    "python-dotenv>=1.1.0",
+]
+
+[tool.setuptools]
+packages = ["clients", "agents", "servers"]

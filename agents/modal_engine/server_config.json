@@ -1,0 +1,18 @@
+{
+    "mcpServers": {
+        "modal": {
+            "command": "./servers/modal/.venv/bin/python",
+            "args": [
+                "./servers/modal/server.py"
+            ],
+            "env": {}
+        },
+        "utils": {
+            "command": "./servers/utils/.venv/bin/python",
+            "args": [
+                "./servers/utils/server.py"
+            ],
+            "env": {}
+        }
+    }
+}

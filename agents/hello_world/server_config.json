@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "utils": {
+            "command": "./servers/utils/.venv/bin/python",
+            "args": [
+                "./servers/utils/server.py"
+            ],
+            "env": {}
+        }
+    }
+}
